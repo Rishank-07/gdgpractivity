@@ -45,7 +45,8 @@
 | Subham Ghosh      | 1DA23IS048    |
 | Vedashree V K     | 1DA23IS055    |
 | Sai keerthan S    | 1TU24ET044    |
-| Abhishek Bharadwaj| 1DA23IS001    |
+| Abhishek Bharadwaj| 1DA23IS001    
+|
 |Pallavi N|1TUCS119|
 | Bhawna DS | 1TU24IS017 |
 | Manish P|1DA23CS103|
@@ -62,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+| Rishank S S | | 1TU24CB035 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
